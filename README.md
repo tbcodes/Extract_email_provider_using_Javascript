@@ -1,2 +1,2 @@
-# Extract_email_provider_using_Javascript
+# Extract Email Provider Using Javascript
 Real project in Javascript: How to extract email provider name using Javascript code.
